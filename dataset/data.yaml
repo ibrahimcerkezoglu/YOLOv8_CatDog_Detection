@@ -1,0 +1,6 @@
+train: C:/Users/ibrah/Documents/BLG407_YOLOv8_Proje/dataset/train/images
+val: C:/Users/ibrah/Documents/BLG407_YOLOv8_Proje/dataset/valid/images
+test: C:/Users/ibrah/Documents/BLG407_YOLOv8_Proje/dataset/test/images
+
+nc: 2
+names: ['cat', 'dog']
